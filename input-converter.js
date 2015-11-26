@@ -1,4 +1,4 @@
-angular.module('json.converter', [])
+angular.module('input.converter', [])
 .directive('input', ['$filter', function($filter) {
 	return {
 		restrict: 'AE',
